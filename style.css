@@ -40,6 +40,7 @@ hr {
   background-color: var(--primary-color);
   border-radius: 0.5rem;
   color: white;
+  
 }
 
 .link-secondary {
@@ -47,6 +48,7 @@ hr {
   border-radius: 0.5rem;
   border: 1px solid var(--primary-color);
 }
+
 
 .link-blog {
   text-decoration: none;
@@ -96,6 +98,7 @@ hr {
 
 .hero .hero-img {
   max-width: 350px;
+  width:50%;
   display: block;
   margin: auto;
 }
